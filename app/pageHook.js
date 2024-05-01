@@ -159,7 +159,7 @@ function PageHook() {
                     />
                   </span>
                   <span className="bg-clip-text text-transparent dark:bg-gradient-to-r bg-gradient-to-tr dark:from-white from-black to-neutral-600 dark:to-neutral-700">
-                    Amazing Framer Templates & Resources!
+                    Templates & Resources!
                   </span>
                 </div>
               </div>
